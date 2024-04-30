@@ -1,0 +1,20 @@
+/*FUENTES*/
+
+/*NEXA*/
+@font-face {
+    font-family: 'Nexa';
+    src: url('font/nexa/NexaBold.woff2') format('woff2'),
+        url('font/nexa/NexaBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+/*footer*/
+ .principal{
+	background-color: red;
+	height: 300px;
+    font-size: 10px;
+    line-height: 10px;
+ }
